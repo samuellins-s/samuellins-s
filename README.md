@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1080" height="134" alt="banner-github" src="https://github.com/user-attachments/assets/bd27ee31-1bf6-406f-a308-aed1d422069b" />
 
 <!--
 **samuellins-s/samuellins-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
