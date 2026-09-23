@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## 📌 Um pouco sobre mim
 - Atualmente curso o 2º período de Tecnologia em Sistemas para Internet no Instituto Federal do Rio Grande do Norte (IFRN), onde venho me aprofundando no universo do desenvolvimento Full-stack. Além da programação, também atuo como Graphic Designer — unir criatividade visual e tecnologia é algo que carrego em tudo que produzo.
 
 
@@ -14,8 +14,7 @@
   <img src="https://streak-stats.demolab.com/?user=samuellins-s&theme=nightowl&hide_border=true&cache_seconds=86400" alt="samuellins-s's GitHub Streak" width="49%" />
 </p>
 
-
-## 🛠️ Languages & Tools
+## 🛠️ Linguagens & Ferramentas
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -46,7 +45,7 @@
   </a>
 </p>
 
-## 🔗 Connect with Me
+## 🔗 Me contate
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-lins-b74bb13b4/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Samuel Lins's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:rnsamueldlins@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Samuel Lins's Email"/></a>&nbsp;&nbsp;
